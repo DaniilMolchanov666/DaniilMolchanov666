@@ -3,7 +3,7 @@
 <h3 align="center">Junior Java developer from Russia 🇷🇺</h3>
 Hello! My name is Daniil, I am from St. Petersburg, I want to become 
 a Java developer, I am actively studying Java, Spring, SQL, Docker.
-I try to become better and wish to work on big and interesting projects in cool companies!
+I try to do everything to become better and wish to work on interesting projects in large companies!
 
 ## About me:
 
