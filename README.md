@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Начинающий Java-разработчик
 <!--
 **DaniilMolchanov666/DaniilMolchanov666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
