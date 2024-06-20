@@ -10,12 +10,12 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-The profile picture is Hank Mobley, not me! This is a legendary jazz musician
-
 Hello! My name is Daniil, I am from St. Petersburg, I want to become 
 a Java developer, I am actively studying Java, Spring, SQL, Docker.
 
 I try to do everything to become better and wish to work on interesting projects in large companies!
+
+PS The profile picture is Hank Mobley, not me! This is a legendary jazz musician
 
 ## About me:
 
