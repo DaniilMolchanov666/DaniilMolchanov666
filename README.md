@@ -9,6 +9,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+The profile picture is Hank Mobley, not me! This is a legendary jazz musician
 
 Hello! My name is Daniil, I am from St. Petersburg, I want to become 
 a Java developer, I am actively studying Java, Spring, SQL, Docker.
